@@ -1,0 +1,14 @@
+let nome = "Maria Gabrielly";
+let cidade = "Santa Catarina";
+let atividade_de_interesse = "Desenvolvimento de sistemas";
+let deseja_aprender = "Git e GitHub";
+let area_profissional_de_interesse = "Tecnologia da Informação";
+let mensagem_final = `Olá, meu nome é ${nome}. 
+Eu moro em ${cidade} e tenho interesse em ${atividade_de_interesse}. 
+Gostaria de aprender mais sobre ${deseja_aprender} e estou buscando oportunidades na área de ${area_profissional_de_interesse}.`;
+
+
+console.log("--------------------------------");
+console.log("MEU APLICATIVO");
+console.log("--------------------------------");
+console.log(mensagem_final);
